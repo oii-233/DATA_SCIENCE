@@ -27,8 +27,10 @@ This project implements a statistical engine from scratch using pure Python. It 
 
 ## ⚙️ Setup Instructions
 
+1. **Clone the repository**
+
 ```bash
-git clone <your-repo-link>
-cd statistical_engine
+git clone https://github.com/oii-233/DATA_SCIENCE.git
+cd DATA_SCIENCE/statistical_engine
 python main.py
 ```
